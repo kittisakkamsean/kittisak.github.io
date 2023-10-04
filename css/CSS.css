@@ -73,7 +73,7 @@ body
 .active, .menu-bar ul li a:hover
 {
     background: grey;
-    border-radius: 3px;
+    border-radius: 4px;
 }
 .boxtxt{
     font-size: 30px;
